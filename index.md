@@ -1,3 +1,9 @@
+---
+layout: default
+title: The Commons of Trust
+---
+
+
 # 🛡️ Password Responsibility Manifesto
 
 > "Security is not just a technical concern — it’s a shared moral obligation."
